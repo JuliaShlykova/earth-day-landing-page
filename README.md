@@ -1,4 +1,8 @@
+# Glam-up-markup: Earth Day
+This project is dedicated to Earth Day with intention to participate in [dev challenge](https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4). 
 
+## Demo
+To see the animation, please [visit](https://juliashlykova.github.io/earth-day-landing-page/).
 
 ## Assets
-- background image was taken from [pixabay.com](https://pixabay.com/photos/astronomy-space-abstract-galaxy-3183482/);
+- Pictures and SVG were taken from [pixabay.com](https://pixabay.com);
